@@ -19,7 +19,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   let result = "";
   license  === "None" ? result = "" : result = `## License
-  ${license}
+  This project is licensed under the ${license} license.
   `
   return result;
 }
@@ -71,8 +71,8 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  If you have any questions about the repository, open an issue or contact me directly at ${data.username}. You can see more of my work at
-  [${data.username}](https://github.com/${data.username}).
+  If you have any questions you can contact me at ${data.email}.
+  You can see more of my work at [${data.username}](https://github.com/${data.username}).
   
 `;
 }

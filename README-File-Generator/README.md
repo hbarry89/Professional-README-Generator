@@ -1,9 +1,9 @@
-# test
+# Professional README Generator
   ![MIT](https://img.shields.io/badge/license-MIT-blue) 
 
   ## Description
   
-  test
+  It generates README files.
   
   ## Tale of Contents
   
@@ -27,15 +27,15 @@
   
   ## Usage
   
-  test
+  It is a helpful project.
   
   ## License
-  MIT
+  This project is licensed under the MIT license.
   
   
   ## Contributing
   
-  test
+  See Questions section below.
   
   ## Tests
   
@@ -45,6 +45,6 @@
   
   ## Questions
   
-  If you have any questions about the repository, open an issue or contact me directly at test. You can see more of my work at
-  [test](https://github.com/test).
+  If you have any questions you can contact me at hudabarry@yahoo.com.
+  You can see more of my work at [hbarry89](https://github.com/hbarry89).
   
