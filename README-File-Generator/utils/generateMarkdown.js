@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   let result = "";
-  license  === "None" ? result = "" : result = `* [Licence](#Licence)`
+  license  === "None" ? result = "" : result = `* [License](#license)`
   return result;
 }
 
@@ -71,8 +71,7 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  If you have any questions you can contact me at ${data.email}.
-  You can see more of my work at [${data.username}](https://github.com/${data.username}).
+  If you have any questions you can contact me at ${data.email}. You can see more of my work at [${data.username}](https://github.com/${data.username}).
   
 `;
 }

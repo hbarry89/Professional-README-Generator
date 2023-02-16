@@ -11,7 +11,7 @@
   
   * [Usage](#usage)
   
-  * [Licence](#Licence)
+  * [License](#license)
   
   * [Contributing](#contributing)
   
@@ -27,7 +27,7 @@
   
   ## Usage
   
-  It is a helpful project.
+  Answer a series of questions and the README file will be genereated.
   
   ## License
   This project is licensed under the MIT license.
@@ -35,7 +35,7 @@
   
   ## Contributing
   
-  See Questions section below.
+  See "Questions" section below.
   
   ## Tests
   
@@ -45,6 +45,5 @@
   
   ## Questions
   
-  If you have any questions you can contact me at hudabarry@yahoo.com.
-  You can see more of my work at [hbarry89](https://github.com/hbarry89).
+  If you have any questions you can contact me at hudabarry@yahoo.com. You can see more of my work at [hbarry89](https://github.com/hbarry89).
   
