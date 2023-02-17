@@ -15,19 +15,19 @@
 
 - You will be presented with a series of questions:
 
-<img src="*" width="300" height="300">
+<img src="./demo-images/demo1.png" width="700" height="100">
 
 ---------------------------
 
 - After answering the questions your answers will be captured:
 
-<img src="*" width="300" height="300">
+<img src="./demo-images/demo2.png" width="600" height="150">
 
 ---------------------------
 
 - Then a README file will be generated based on the answers provided.
 
-<img src="*" width="300" height="300">
+<img src="./demo-images/demo3.png" width="200" height="300">
 
 ---------------------------
 
