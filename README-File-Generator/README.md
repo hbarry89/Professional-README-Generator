@@ -1,9 +1,9 @@
-# test
-   
+# Professional README Generator
+  ![MIT](https://img.shields.io/badge/license-MIT-blue) 
 
   ## Description
   
-  test
+  This application generates README files.
   
   ## Table of Contents
   
@@ -11,7 +11,7 @@
   
   * [Usage](#usage)
   
-  
+  * [License](#license)
   
   * [Contributing](#contributing)
   
@@ -23,27 +23,33 @@
   
   To install necessary dependencies, run the following command:
 
-  <code>npm i</code>
+  ```
+  npm i
+  ```
   
   ## Usage
   
-  test
+  You need to answer a series of questions then a README file will be generated.
   
+  ## License
+  This project is licensed under the MIT license.
   
   
   ## Contributing
   
-  test
+  N/A
   
   ## Tests
   
   To run tests, run the following command:
-  
-  <code>npm test</code>
+ 
+  ```
+  npm test
+  ```
   
   ## Questions
   
-  If you have any questions you can contact me at test.
+  If you have any questions you can contact me at hudabarry@yahoo.com.
   
-  You can see more of my work at [test](https://github.com/test).
+  You can see more of my work at [hbarry89](https://github.com/hbarry89).
   

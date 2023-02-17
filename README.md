@@ -2,15 +2,14 @@
 
 ## Description
 
-- This is the seventh challenge.
 - The purpose of this repository is for developers to create a quick and a professional README files through a README file generator application.
 
 ## Usage
 
-- Checkout this video demo video of this application.
+- Checkout this video demo video of this application:
 
-[Click here](*) for a link to the video demo for your reference.
-[Click here](https://github.com/hbarry89/Professional-README-Generator/blob/main/README-File-Generator/README.md) to see a sample README file created by the generator.
+- [Click here](*) for a link to the video demo for your reference.
+- [Click here](https://github.com/hbarry89/Professional-README-Generator/blob/main/README-File-Generator/README.md) to see a sample README file created by the generator.
 
 ---------------------------
 
@@ -26,7 +25,7 @@
 
 ---------------------------
 
--Then a README file will be generated based on the answers provided.
+- Then a README file will be generated based on the answers provided.
 
 <img src="*" width="300" height="300">
 
