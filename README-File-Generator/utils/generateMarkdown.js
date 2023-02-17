@@ -26,14 +26,14 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.project}
+  return `# ${data.title}
   ${renderLicenseBadge(data.license)} 
 
   ## Description
   
   ${data.description}
   
-  ## Tale of Contents
+  ## Table of Contents
   
   * [Installation](#installation)
   
@@ -49,7 +49,7 @@ function generateMarkdown(data) {
   
   ## Installation
   
-  To install neccessary dependencies, run the following command:
+  To install necessary dependencies, run the following command:
 
   <code>${data.install}</code>
   
@@ -71,7 +71,9 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  If you have any questions you can contact me at ${data.email}. You can see more of my work at [${data.username}](https://github.com/${data.username}).
+  If you have any questions you can contact me at ${data.email}.
+  
+  You can see more of my work at [${data.username}](https://github.com/${data.username}).
   
 `;
 }

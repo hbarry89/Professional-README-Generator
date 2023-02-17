@@ -1,17 +1,17 @@
 # test
-  ![MIT](https://img.shields.io/badge/license-MIT-blue) 
+   
 
   ## Description
   
   test
   
-  ## Tale of Contents
+  ## Table of Contents
   
   * [Installation](#installation)
   
   * [Usage](#usage)
   
-  * [License](#license)
+  
   
   * [Contributing](#contributing)
   
@@ -21,7 +21,7 @@
   
   ## Installation
   
-  To install neccessary dependencies, run the following command:
+  To install necessary dependencies, run the following command:
 
   <code>npm i</code>
   
@@ -29,8 +29,6 @@
   
   test
   
-  ## License
-  This project is licensed under the MIT license.
   
   
   ## Contributing
@@ -41,9 +39,11 @@
   
   To run tests, run the following command:
   
-  npm test
+  <code>npm test</code>
   
   ## Questions
   
-  If you have any questions you can contact me at test. You can see more of my work at [test](https://github.com/test).
+  If you have any questions you can contact me at test.
+  
+  You can see more of my work at [test](https://github.com/test).
   
