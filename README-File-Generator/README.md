@@ -29,7 +29,7 @@
   
   ## Usage
   
-  You need to answer a series of questions then a README file will be generated.
+  You need to answer a series of questions then a README files will be generated.
   
   ## License
   This project is licensed under the MIT license.
