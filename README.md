@@ -8,7 +8,9 @@
 
 - Checkout this video demo video of this application:
 
-- [Click here](*) for a link to the video demo for your reference.
+<video width="600" height="400" controls><source src="./demo-images/demo-video.webm">Please click link below if unable to see video</video>
+
+- [Click here](https://drive.google.com/file/d/18lvM4-9OPbaO4XmOKH0WdtrqrQKa89b8/view) for a link to the video demo for your reference.
 - [Click here](https://github.com/hbarry89/Professional-README-Generator/blob/main/README-File-Generator/README.md) to see a sample README file created by the generator.
 
 ---------------------------
